@@ -11,3 +11,5 @@ I learn a lot of stuff related to data science skills. This bootcamp follow by
 - Data Transformation
 - Data Visualization
 - Essential Statistics for Data Analyst
+
+you can find me on Linkedin:
