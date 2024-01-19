@@ -16,4 +16,4 @@ I learned a lot of stuff related to data science skills. This bootcamp follow by
 - Essential Python for Data Analyst
 - Dashboard
 
-you can find me on Linkedin:
+you can find my mini projects in https://replit.com/@thanapon21827?tab=repls, is easier to run them.
