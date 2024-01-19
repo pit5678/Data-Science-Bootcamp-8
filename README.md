@@ -3,7 +3,7 @@ My data portfolio for data analyst role
 
 ## What did I learn from this bootcamp
 
-I learn a lot of stuff related to data science skills. This bootcamp follow by
+I learned a lot of stuff related to data science skills. This bootcamp follow by
 - Intro to data science
 - Spreadsheets
 - Database (SQL)
